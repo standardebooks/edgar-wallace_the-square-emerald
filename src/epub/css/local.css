@@ -2,7 +2,7 @@
 @namespace epub "http://www.idpf.org/2007/ops";
 
 #chapter-4 blockquote,
-#chapter-18 blockquote p{
+#chapter-18 blockquote{
 	font-variant: small-caps;
 	text-align: center;
 }
