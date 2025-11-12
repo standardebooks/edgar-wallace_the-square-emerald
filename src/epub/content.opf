@@ -55,8 +55,8 @@
 		<meta property="se:name.person.full-name" refines="#author">Richard Horatio Edgar Wallace</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#author">https://en.wikipedia.org/wiki/Edgar_Wallace</meta>
 		<meta property="se:url.authority.nacoaf" refines="#author">http://id.loc.gov/authorities/names/n80034938</meta>
-		<meta property="role" refines="#author" scheme="marc:relators">aut</meta>
 		<meta property="role" refines="#author" scheme="marc:relators">ann</meta>
+		<meta property="role" refines="#author" scheme="marc:relators">aut</meta>
 		<dc:contributor id="artist">Stanislawa de Karlowska</dc:contributor>
 		<meta property="file-as" refines="#artist">de Karlowska, Stanislawa</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">https://en.wikipedia.org/wiki/Stanisława_de_Karłowska</meta>
